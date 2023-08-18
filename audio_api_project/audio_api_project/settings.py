@@ -82,21 +82,6 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'NAME': 'rttppa_demo',
-#         'ENGINE': 'django.db.backends.mysql',   
-#         'USER': 'rttppa_demo',
-#         'PASSWORD': 'rttppa_demo',
-#         'HOST': '184.168.115.208',
-#         'PORT': 3306,
-#         'OPTIONS': {
-#             'sql_mode': 'STRICT_ALL_TABLES',
-#         },
-#     }
-# }
-
-
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
 
